@@ -8,3 +8,10 @@ tags: [general] # add tag
 ---
 
 ### hello world
+```scala
+object Main {
+    def main() = {
+        println("Hello World Scala");
+    }
+}
+```
